@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: levelup-login
+    env: docker
+    plan: free
